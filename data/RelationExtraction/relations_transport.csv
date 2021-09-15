@@ -1,0 +1,217 @@
+id;relation;mots;mots_rel;Label
+6;(('EG', 'MD'), ('nmod',));('bus', 'vers', 'centre ville', 'et', 'Monaco', 'à', 'les', 'pieds');('bus', 'pieds');1
+155;(('EG', 'MD'), ('nmod',));('Courses à', 'pied');('Courses à', 'pied');0
+208;(('EG', 'MD'), ('nmod',));('Ecoles', 'et', 'transports', 'à', 'les', 'pieds');('Ecoles', 'pieds');1
+213;(('EG', 'MD'), ('nmod',));('commodités', 'à', 'vos', 'pieds');('commodités', 'pieds');1
+81;(('MD', 'EG'), ('appos',));('pieds', 'de', 'l', 'immeuble', ',', 'centres universitaires');('pieds', 'centres universitaires');0
+95;(('MD', 'EG'), ('conj',));('voiture', 'ou', 'en', 'bus');('voiture', 'bus');0
+108;(('MD', 'EG'), ('nmod',));('pied', 'de', 'la', 'rue');('pied', 'rue');0
+162;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'les', 'commerces');('pieds', 'commerces');1
+163;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'les', 'commerces');('pieds', 'commerces');1
+80;(('MD', 'EG'), ('nsubj',));('commodités', 'sont', 'à', 'les', 'pieds');('pieds', 'commodités');1
+90;(('MD', 'EG'), ('nsubj',));('commerces', 'sont', 'à', 'les', 'pieds');('pieds', 'commerces');1
+79;(('MD', 'ET'), ('conj',));('pieds', 'de', 'l', 'immeuble', ',', 'centres universitaires', ',', 'lignes de tram', 'et', 'à', 'seulement', '15', 'mn');('pieds', 'mn');0
+15;(('EG', 'MD'), ('nmod',));('port', 'à', 'pied');('port', 'pied');1
+17;(('EG', 'MD'), ('nmod',));('commerces', 'à', 'pied');('commerces', 'pied');1
+21;(('EG', 'MD'), ('nmod',));('Village', 'à', 'pied');('Village', 'pied');1
+22;(('EG', 'MD'), ('nmod',));('commodités', 'à', 'pieds');('commodités', 'pieds');1
+23;(('EG', 'MD'), ('nmod',));('commerces', 'à', 'pied');('commerces', 'pied');1
+26;(('EG', 'MD'), ('nmod',));('commerces', 'à', 'pied');('commerces', 'pied');1
+39;(('EG', 'MD'), ('nmod',));('commerces', 'à', 'pied');('commerces', 'pied');1
+44;(('EG', 'MD'), ('nmod',));('commerces', 'à', 'pied');('commerces', 'pied');1
+45;(('EG', 'MD'), ('nmod',));('plages', 'à', 'pieds');('plages', 'pieds');1
+46;(('EG', 'MD'), ('nmod',));('transports', 'à', 'pieds');('transports', 'pieds');1
+55;(('EG', 'MD'), ('nmod',));('arrêt de bus', 'à', 'le', 'pied');('arrêt de bus', 'pied');1
+60;(('EG', 'MD'), ('nmod',));('commerces', 'à', 'pieds');('commerces', 'pieds');1
+63;(('EG', 'MD'), ('nmod',));('Commerces', 'et', 'centre ville', 'à', 'pied');('Commerces', 'pied');1
+69;(('EG', 'MD'), ('nmod',));('gare SNCF', 'à', 'pied');('gare SNCF', 'pied');1
+71;(('EG', 'MD'), ('nmod',));('secteur', 'résidentiel', 'et', 'calme', ',', 'à', 'pied');('secteur', 'pied');1
+73;(('EG', 'MD'), ('nmod',));('secteur', 'résidentiel', 'et', 'calme', ',', 'à', 'pied');('secteur', 'pied');1
+85;(('EG', 'MD'), ('nmod',));('commerces', 'à', 'pied');('commerces', 'pied');1
+104;(('EG', 'MD'), ('nmod',));('rue', 'd', 'Antibes', 'à', 'pied');('rue', 'pied');1
+107;(('EG', 'MD'), ('nmod',));('transports', 'à', 'pied');('transports', 'pied');1
+124;(('EG', 'MD'), ('nmod',));('commodités', 'a', 'pied');('commodités', 'pied');1
+164;(('EG', 'MD'), ('nmod',));('commodités', 'à', 'pieds');('commodités', 'pieds');1
+168;(('EG', 'MD'), ('nmod',));('commerces', 'à', 'pied');('commerces', 'pied');1
+197;(('EG', 'MD'), ('nmod',));('commerces', 'écoles', 'centre ville', 'à', 'pieds');('commerces', 'pieds');1
+199;(('EG', 'MD'), ('nmod',));('Commerces', 'à', 'pieds');('Commerces', 'pieds');1
+200;(('EG', 'MD'), ('nmod',));('commerces', 'à', 'pied');('commerces', 'pied');1
+201;(('EG', 'MD'), ('nmod',));('commerces', 'à', 'pied');('commerces', 'pied');1
+203;(('EG', 'MD'), ('nmod',));('gares', 'à', 'pieds');('gares', 'pieds');1
+207;(('EG', 'MD'), ('nmod',));('plages', 'à', 'pied');('plages', 'pied');1
+212;(('EG', 'MD'), ('nmod',));('Parkings publics', 'à', '2', 'mn', 'à', 'pied');('Parkings publics', 'pied');1
+214;(('EG', 'MD'), ('nmod',));('pied', 'des', 'plages');('plages', 'pied');1
+215;(('EG', 'MD'), ('nmod',));('commodités', 'à', 'pieds');('commodités', 'pieds');1
+205;(('EG', 'MD'), ('root',));('pied', 'de', 'les', 'commodités');('commodités', 'pied');1
+0;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+2;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+3;(('ET', 'MD'), ('nmod',));('min', 'à', 'pied');('min', 'pied');1
+4;(('ET', 'MD'), ('nmod',));('mn', 'à', 'pied');('mn', 'pied');1
+5;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+9;(('ET', 'MD'), ('nmod',));('mn', 'à', 'pied');('mn', 'pied');1
+10;(('ET', 'MD'), ('nmod',));('mn', 'en', 'voiture');('mn', 'voiture');1
+11;(('ET', 'MD'), ('nmod',));('min', 'à', 'pied');('min', 'pied');1
+12;(('ET', 'MD'), ('nmod',));('min', 'à', 'pied');('min', 'pied');1
+13;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+16;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+19;(('ET', 'MD'), ('nmod',));('Proximité', 'à', 'pieds');('Proximité', 'pieds');1
+24;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+25;(('ET', 'MD'), ('nmod',));('min', 'à', 'pied');('min', 'pied');1
+27;(('ET', 'MD'), ('nmod',));('mn', 'à', 'pieds');('mn', 'pieds');1
+28;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+30;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+32;(('ET', 'MD'), ('nmod',));('min', 'à', 'pied');('min', 'pied');1
+33;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+35;(('ET', 'MD'), ('nmod',));('Min', 'en', 'voiture');('Min', 'voiture');1
+36;(('ET', 'MD'), ('nmod',));('pas', 'à', 'pied');('pas', 'pied');1
+37;(('ET', 'MD'), ('nmod',));('pas', 'à', 'pied');('pas', 'pied');1
+38;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+40;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+47;(('ET', 'MD'), ('nmod',));('minutes', 'a', 'pied');('minutes', 'pied');1
+48;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+50;(('ET', 'MD'), ('nmod',));('Accès', 'direct', 'en', 'voiture');('Accès', 'voiture');1
+52;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+54;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+56;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'Pied');('minutes', 'Pied');1
+57;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+58;(('ET', 'MD'), ('nmod',));('min', 'de', 'la', 'mer', 'à', 'pieds');('min', 'pieds');1
+59;(('ET', 'MD'), ('nmod',));('accès', 'voiture');('accès', 'voiture');1
+62;(('ET', 'MD'), ('nmod',));('mn', 'à', 'pied');('mn', 'pied');1
+65;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+66;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+67;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+68;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+75;(('ET', 'MD'), ('nmod',));('mn', 'à', 'pieds');('mn', 'pieds');1
+78;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+82;(('ET', 'MD'), ('nmod',));('mn', 'à', 'pied');('mn', 'pied');1
+84;(('ET', 'MD'), ('nmod',));('mn', 'à', 'pied');('mn', 'pied');1
+86;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+87;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+88;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+93;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+96;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+98;(('ET', 'MD'), ('nmod',));('Min', 'en', 'voiture');('Min', 'voiture');1
+100;(('ET', 'MD'), ('nmod',));('min', 'en', 'voiture');('min', 'voiture');1
+101;(('ET', 'MD'), ('nmod',));('min', 'en', 'voiture');('min', 'voiture');1
+102;(('ET', 'MD'), ('nmod',));('min', 'en', 'voiture');('min', 'voiture');1
+105;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+106;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+109;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+112;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+115;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+116;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+117;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+120;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+121;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+122;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+125;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+127;(('ET', 'MD'), ('nmod',));('min', 'à', 'pieds');('min', 'pieds');1
+130;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+131;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+132;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+134;(('ET', 'MD'), ('nmod',));('mn', 'à', 'pieds');('mn', 'pieds');1
+138;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+139;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+142;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+143;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+146;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+147;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+148;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+151;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+152;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+153;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+157;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+158;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+159;(('ET', 'MD'), ('nmod',));('min', 'à', 'pied');('min', 'pied');1
+161;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+167;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+170;(('ET', 'MD'), ('nmod',));('mn', 'à', 'pieds');('mn', 'pieds');1
+173;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+174;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+175;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+178;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+179;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+180;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+182;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+184;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+186;(('ET', 'MD'), ('nmod',));('proximité', 'à', 'pied');('proximité', 'pied');1
+187;(('ET', 'MD'), ('nmod',));('distance', 'à', 'pied');('distance', 'pied');1
+188;(('ET', 'MD'), ('nmod',));('minutes', 'en', 'voiture');('minutes', 'voiture');1
+190;(('ET', 'MD'), ('nmod',));('mn', 'à', 'pieds');('mn', 'pieds');1
+192;(('ET', 'MD'), ('nmod',));('mn', 'à', 'pied');('mn', 'pied');1
+193;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+194;(('ET', 'MD'), ('nmod',));('accès', 'direct', 'en', 'voiture');('accès', 'voiture');1
+195;(('ET', 'MD'), ('nmod',));('accès', 'direct', 'en', 'voiture');('accès', 'voiture');1
+196;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'piedBiens');('minutes', 'piedBiens');1
+202;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+206;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+209;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pied');('minutes', 'pied');1
+210;(('ET', 'MD'), ('nmod',));('mn', 'à', 'pied');('mn', 'pied');1
+211;(('ET', 'MD'), ('nmod',));('minutes', 'à', 'pieds');('minutes', 'pieds');1
+166;(('ET', 'MD'), ('obl:mod',));('Proche', 'de', 'toute', 'commodité', 'et', 'transport en commun', '5MN', 'a', 'pied');('Proche', 'pied');0
+110;(('MD', 'EG'), ('appos',));('pieds', ':', 'commerces');('pieds', 'commerces');1
+191;(('MD', 'EG'), ('appos',));('pieds', ':', 'commerces');('pieds', 'commerces');1
+91;(('MD', 'EG'), ('appos',));('pieds', 'de', 'le', 'Palace', ',', 'supermarchés');('pieds', 'supermarchés');1
+42;(('MD', 'EG'), ('conj',));('pieds', 'de', 'la', 'mer', 'et', 'de', 'les', 'plages', ',', 'des', 'commerces');('pieds', 'commerces');1
+43;(('MD', 'EG'), ('conj',));('pieds', 'de', 'la', 'mer', 'et', 'de', 'les', 'plages', ',', 'des', 'commerces', 'et', 'de', 'toutes', 'les', 'commodités');('pieds', 'commodités');1
+1;(('MD', 'EG'), ('nmod',));('pied', 'de', 'le', 'centre ville');('pied', 'centre ville');1
+7;(('MD', 'EG'), ('nmod',));('pied', 'de', 'le', 'tramway');('pied', 'tramway');1
+8;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'l', 'autoroute');('voiture', 'autoroute');1
+18;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'les', 'commerces');('pieds', 'commerces');1
+20;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'les', 'commerces');('pieds', 'commerces');1
+29;(('MD', 'EG'), ('nmod',));('pied', 'de', 'le', 'centre ville');('pied', 'centre ville');1
+31;(('MD', 'EG'), ('nmod',));('pied', 'de', 'les', 'plages');('pied', 'plages');1
+34;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'la', 'ville');('voiture', 'ville');1
+41;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'la', 'mer');('pieds', 'mer');1
+49;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'les', 'commodités');('pieds', 'commodités');1
+51;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'le', 'port');('pieds', 'port');1
+53;(('MD', 'EG'), ('nmod',));('pied', 'de', 'toutes', 'les', 'commerces');('pied', 'commerces');1
+61;(('MD', 'EG'), ('nmod',));('pied', 'de', 'le', 'centre');('pied', 'centre');1
+70;(('MD', 'EG'), ('nmod',));('pied', 'de', 'son', 'village');('pied', 'village');1
+72;(('MD', 'EG'), ('nmod',));('pied', 'de', 'son', 'village');('pied', 'village');1
+74;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'la', 'plage');('pieds', 'plage');1
+76;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'les', 'commerces');('pieds', 'commerces');1
+83;(('MD', 'EG'), ('nmod',));('pied', 'de', 'la', 'mer');('pied', 'mer');1
+92;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'les', 'commerces');('pieds', 'commerces');1
+94;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'les', 'commodités');('pieds', 'commodités');1
+97;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'la', 'ville');('voiture', 'ville');1
+99;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'le', 'centre ville');('voiture', 'centre ville');1
+103;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'les', 'commodités');('pieds', 'commodités');1
+111;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'tous', 'les', 'axes routiers');('voiture', 'axes routiers');1
+113;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'le', 'centre commercial');('voiture', 'centre commercial');1
+114;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'les', 'plages');('voiture', 'plages');1
+118;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'le', 'centre commercial');('voiture', 'centre commercial');1
+119;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'les', 'plages');('voiture', 'plages');1
+123;(('MD', 'EG'), ('nmod',));('pied', 'de', 'tout', 'les', 'commerces');('pied', 'commerces');1
+126;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'les', 'commerces');('pieds', 'commerces');1
+128;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'le', 'centre commercial');('voiture', 'centre commercial');1
+129;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'les', 'plages');('voiture', 'plages');1
+133;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'la', 'plage');('pieds', 'plage');1
+135;(('MD', 'EG'), ('nmod',));('pied', 'de', 'les', 'commodités');('pied', 'commodités');1
+140;(('MD', 'EG'), ('nmod',));('pied', 'de', 'toutes', 'les', 'commerces');('pied', 'commerces');1
+141;(('MD', 'EG'), ('nmod',));('pied', 'centre ville');('pied', 'centre ville');1
+144;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'le', 'centre commercial');('voiture', 'centre commercial');1
+145;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'les', 'plages');('voiture', 'plages');1
+149;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'le', 'centre commercial');('voiture', 'centre commercial');1
+150;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'les', 'plages');('voiture', 'plages');1
+154;(('MD', 'EG'), ('nmod',));('pied', 'de', 'toutes', 'les', 'commodités');('pied', 'commodités');1
+156;(('MD', 'EG'), ('nmod',));('pied', 'centre ville');('pied', 'centre ville');1
+160;(('MD', 'EG'), ('nmod',));('pied', 'de', 'toutes', 'commodités');('pied', 'commodités');1
+165;(('MD', 'EG'), ('nmod',));('pied', 'de', 'la', 'mer');('pied', 'mer');1
+169;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'les', 'Facultés');('pieds', 'Facultés');1
+171;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'le', 'centre commercial');('voiture', 'centre commercial');1
+172;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'les', 'plages');('voiture', 'plages');1
+176;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'le', 'centre commercial');('voiture', 'centre commercial');1
+177;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'les', 'plages');('voiture', 'plages');1
+181;(('MD', 'EG'), ('nmod',));('pied', 'de', 'les', 'commerces');('pied', 'commerces');1
+183;(('MD', 'EG'), ('nmod',));('voiture', 'de', 'le', 'centre ville');('voiture', 'centre ville');1
+185;(('MD', 'EG'), ('nmod',));('pied', 'de', 'le', 'golf');('pied', 'golf');1
+189;(('MD', 'EG'), ('nmod',));('pieds', 'de', 'la', 'plage');('pieds', 'plage');1
+204;(('MD', 'EG'), ('nmod',));('pied', 'de', 'les', 'commodités');('pied', 'commodités');1
+198;(('MD', 'EG'), ('root',));('Commerces', 'à', 'pieds');('pieds', 'Commerces');1
+14;(('MD', 'ET'), ('root',));('minutes', 'de', 'le', 'port', 'à', 'pied');('pied', 'minutes');1
+64;(('MD', 'TOPONYME'), ('nmod',));('pied', 'de', 'la', 'Croisette');('pied', 'Croisette');1
+77;(('MD', 'TOPONYME'), ('nmod',));('pied', 'de', 'la', 'Croisette');('pied', 'Croisette');1
+89;(('MD', 'TOPONYME'), ('nmod',));('pieds', 'de', 'le', 'Palace');('pieds', 'Palace');1
+137;(('MD', 'TOPONYME'), ('nmod',));('voiture', 'de', 'Monaco');('voiture', 'Monaco');1
+136;(('TOPONYME', 'MD'), ('conj',));('Cannet', 'Mairie', ',', 'à', 'le', 'calme', 'et', 'à', 'pied');('Cannet', 'pied');0
